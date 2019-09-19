@@ -12,7 +12,7 @@ git clone https://github.com/bhagyashree1990/JavaFeatures.git
 
 ### Prerequisites
 
-* [ Java SE 11 ](https://www.oracle.com/technetwork/java/javase/downloads/jdk11-downloads-5066655.html)
+* [ Java SE 11 ](https://www.oracle.com/technetwork/java/javase/downloads/index.html)
 
 ## Authors
 
