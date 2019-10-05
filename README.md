@@ -1,6 +1,6 @@
 # Java Features
 
-Java Features explained with examples for Java versions 8 to 12
+Java Features explained with examples for Java versions 8 to 13
 
 ## Getting Started
 
@@ -12,7 +12,7 @@ git clone https://github.com/bhagyashree1990/JavaFeatures.git
 
 ### Prerequisites
 
-* [ Java SE 12 ](https://www.oracle.com/technetwork/java/javase/downloads/index.html)
+* [ Java SE 13 ](https://www.oracle.com/technetwork/java/javase/downloads/index.html)
 
 ## Authors
 
