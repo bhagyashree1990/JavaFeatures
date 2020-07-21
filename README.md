@@ -12,6 +12,9 @@ Java Features explained with examples for Java versions 8 to 14
 5. Streams `com.java8.test.streams.StreamExample`
 6. Collectors `com.java8.test.collectors.CollectorsExample`
 7. Comparator `com.java8.test.comparator.ComparatorExample`
+8. String joins `com.java8.test.string.join.StringJoinExample`
+9. Optional `com.java8.test.optional.OptionalClassExample`
+10. New Date Time API
 
 ## Getting Started
 
