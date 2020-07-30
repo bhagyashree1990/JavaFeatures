@@ -16,6 +16,28 @@ Java Features explained with examples for Java versions 8 to 14
 9. Optional `com.java8.test.optional.OptionalClassExample`
 10. New Date Time API
 
+### Java9
+1. REPL 
+
+```
+jshell
+jshell>10*5
+jshell>10/5
+jshell>$1+$2
+jshell>Math.max(15,22)
+jshell>String twice(String s){return s+s;}
+jshell>twice("Ocean")
+jshell>String twice(String s){return s+"-"+s;}
+jshell>twice(twice(twice("Ocean")))
+jshell>/list
+jshell>/vars
+jshell>/methods
+jshell>/exit
+```
+
+2. Factory Methods for Immutable List,Set,Map `com.java9.test.FactoryMethodsCollectionExample`
+3. Private Methods in Interface `com.java9.test.PrivateMethodInterfaceExample`
+
 ## Getting Started
 
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
