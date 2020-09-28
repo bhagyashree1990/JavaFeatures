@@ -1,6 +1,6 @@
 # Java Features
 
-Java Features explained with examples for Java versions 8 to 14
+Java Features explained with examples for Java versions 8 to 15
 
 ## Features
 
@@ -37,6 +37,13 @@ jshell>/exit
 
 2. Factory Methods for Immutable List,Set,Map `com.java9.test.FactoryMethodsCollectionExample`
 3. Private Methods in Interface `com.java9.test.PrivateMethodInterfaceExample`
+
+### Java 15
+1. Unicode 13 Support
+2. TreeMap Specialized Methods
+3. Text Blocks
+4. Sealed (Preview)
+5. Records (Preview)
 
 ## Getting Started
 
