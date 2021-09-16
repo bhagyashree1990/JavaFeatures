@@ -1,6 +1,6 @@
 # Java Features
 
-Java Features explained with examples for Java versions 8 to 15
+Java Features explained with examples for Java versions 8 to 17
 
 ## Features
 
@@ -45,6 +45,10 @@ jshell>/exit
 4. Sealed (Preview)
 5. Records (Preview)
 
+### Java 17
+1. Sealed class
+2. Pattern Matching for switch (Preview)
+
 ## Getting Started
 
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
@@ -55,7 +59,7 @@ git clone https://github.com/bhagyashree1990/JavaFeatures.git
 
 ### Prerequisites
 
-* [ Java SE 14 ](https://www.oracle.com/technetwork/java/javase/downloads/index.html)
+* [ Java SE 17 ](https://www.oracle.com/technetwork/java/javase/downloads/index.html)
 
 ## Authors
 
